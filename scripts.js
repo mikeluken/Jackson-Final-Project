@@ -73,7 +73,6 @@ function calculatescore() {
 // the below code was helped by my dad to help make it work like code.org
 
 function onEvent(element, action, func) {
-    var test = document.getElementById(element);
     document.getElementById(element).addEventListener(action, func);
 }
 
