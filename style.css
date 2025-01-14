@@ -1,0 +1,33 @@
+body {
+    background: black;
+}
+
+p {
+    color: black;
+}
+
+input {
+    width: 200px;
+    font-size: 15px;
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    color: darkgreen;
+}
+
+h2 {
+    color: darkgreen;
+    font-weight: bold;
+    text-align: center;
+}
+
+.whitetext {
+    color: white;
+}
+.calculator {
+    width: 120px;
+    background-color: beige;
+}
